@@ -23,23 +23,31 @@ Language/environment: Java, macOS environment.
 The list of files included within the P2P file sharing system with a brief summary is:
 
 IndexServer.java
-o	This file contains different methods for creating the list of files and peers for the central index that can be accessed by the peers. See: peerArray(), indexUpdate(), searchIndex(), addtoIndex()
+ - This file contains different methods for creating the list of files and peers for the central index that can be accessed by the peers. See: peerArray(), indexUpdate(), searchIndex(), addtoIndex()
+
 StartIndexServer.java
-o	Creates an instance of IndexServer (above) and bnids the local host url with the method.
+ - Creates an instance of IndexServer (above) and bnids the local host url with the method.
+
 IndexServerInterface.java
-o	Interface for IndexServer.
+ - Interface for IndexServer.
+
 IndexWatch.java
-o	Watch service for each peer that notifies the index server of file changes thus keeping the central index server up to date of current files in a peers directory. 
+ - Watch service for each peer that notifies the index server of file changes thus keeping the central index server up to date of current files in a peers directory. 
+
 PeerClient.java
-o	Contains different methods for interacting with the central index server and downloading a file from the returned peer. See: indexRegister(), initializeLogin(), fileLookup(), sendData()
+ - Contains different methods for interacting with the central index server and downloading a file from the returned peer. See: indexRegister(), initializeLogin(), fileLookup(), sendData()
+
 PeerClientInterface.java
-o	Interface for the PeerClient.
+ - Interface for the PeerClient.
+
 StartPeerClient.java
-o	Initializes the RMI connection to the server (IndexServer). The server and client URLs are defined outside the Naming.lookup function to support a more flexible method.
+ - Initializes the RMI connection to the server (IndexServer). The server and client URLs are defined outside the Naming.lookup function to support a more flexible method.
+
 PeerFunction.java
-o	Sends a requested file to the requesting peer as bytes. See: login()
+ - Sends a requested file to the requesting peer as bytes. See: login()
+
 PeerFunctionInterface.java
-o	Interface for PeerFunction
+ - Interface for PeerFunction
 
 The main functions of the program can be categorized into Index Server Registration/update, File Download, and File Search. Multiple different methods all talking to one another is required in order to accomplish these tasks. Below are the methods included in the program divided into the respective program tasks.
 
@@ -50,28 +58,28 @@ The main functions of the program can be categorized into Index Server Registrat
 Index Server Registration / Update:
 
 indexRegister()
-o	Updates the files on the IndexServer by calling indexUpdate on the peer’s file directory.
+ - Updates the files on the IndexServer by calling indexUpdate on the peer’s file directory.
 indexUpdate()
-o	Updates the index with the peer and their files. If the peer has already been added then the method removes them and re-adds. This method has the opportunity for improvement.
+ - Updates the index with the peer and their files. If the peer has already been added then the method removes them and re-adds. This method has the opportunity for improvement.
 peerArray()
-o	A void method that posses the list of peers and files. Used for updating the index and adding new peers to the index.
+ - A void method that posses the list of peers and files. Used for updating the index and adding new peers to the index.
 
 File Search
 
 fileLookup()
-o	Looks up the requested file using the IndexServer method searchIndex() and returns all the peers with the file. Prompts the user to select which peer to use.
+ - Looks up the requested file using the IndexServer method searchIndex() and returns all the peers with the file. Prompts the user to select which peer to use.
 searchIndex()
-o	Looks in the register for any files matching the requested file and then returns the name of the peer.
+ - Looks in the register for any files matching the requested file and then returns the name of the peer.
 
 
 File Download
 
 initializeLogin()
-o	Calls the method login from peerFunction that converts the file into bytes and sends to the requesting peer.
+ - Calls the method login from peerFunction that converts the file into bytes and sends to the requesting peer.
 Login()
-o	As stated above, converts a requested file into bytes and sends to the requesting peer. Utilizes the PeerClient method sendData().
+ - As stated above, converts a requested file into bytes and sends to the requesting peer. Utilizes the PeerClient method sendData().
 sendData()
-o	Creates a new file and downloads the contents of a requested file into the newly created file.
+ - Creates a new file and downloads the contents of a requested file into the newly created file.
 
 
 Design Choices and Future Improvements
