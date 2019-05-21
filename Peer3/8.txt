@@ -1,0 +1,62 @@
+Thirty-eight years in, the Voyager software keeps on ticking. Suzy Dodd, the project manager for Voyager, says the software has been updated in flight, but NASA has never “shut it off or changed it completely.”
+
+Because the probes have so little memory—the equivalent of about 70 kilobytes total—pieces of code were swapped in and out during different mission phases. This happened 18 times during the Jupiter flyby alone, the mission’s long-time project scientist, Ed Stone, told me in 2013. Once, in 2010, Voyager 2 began to send back garbled scientific data. Testing at the Jet Propulsion Lab, where Voyager was designed and is still managed, revealed that a single bit in a program had flipped from 0 to 1, according to Stone. The program was reloaded, and has worked since.
+
+Its maximum lifespan, however, can be thought of as 48 years: 1977 to 2025. In 2013, Voyager 1 passed beyond the far reaches of the sun’s magnetic influence, putting it in the midst of particles that are more highly charged than the ones in our solar system. By 2020, mission scientists will have to shut down some remaining instruments, but the craft should continue to talk to earth until it pings home for the last time around 2025.
+
+Thanks to Christopher Eddy for this week’s question. If you have one, send it to questionoftheweek@technologyreview.com.
+FROM OUR ADVERTISERS
+
+
+
+Early reaction from large companies including Apple, Google, Facebook and Microsoft has focused on the immediate impact of the order on employees, with these companies expressing support for, and offering legal assistance to employees affected. These also tended to include fairly mild admonitions about the potential impact on talent acquisition, but by and large they avoided strong or direct condemnation of the Trump administration actions on moral or values-based grounds.
+
+Some companies, including Airbnb, Twitter and Lyft are more explicitly admitting they oppose Trump’s actions at a fundamental level. Lyft and investor Chris Sacca have gone further still, donating funds to the ACLU – Lyft will contribute $1 million over the next four years, in fact. Fred Wilson broke silence regarding Trump maintained since his election and will be donating monthly to the ACLU as well.
+
+Meanwhile some of those with the most direct access to the White House have been more measured in their response. Tesla CEO Elon Musk, who sits on not one, but two Trump industry advisory councils said on Twitter that the ban was “not the best way” to address U.S. immigration challenges, for instance, and Uber CEO Travis Kalanick said he’d “raise” the issue of the order’s unfairness at an upcoming advisory council meeting with Trump.
+
+Somewhat muted responses from a number of tech companies on Trump policy is to be expected: the responsibilities of executives at Google, Apple, Facebook and more are first and foremost to their companies and their employees, and they’re clearly facing a balancing act of acting in good conscience while also protecting their corporate interests. The fact that they’ve said as much as they have while faced with that dilemma speaks volumes to just how heinous Trump’s actions have been.
+
+But on the other side, companies that have been willing to work more closely with Trump are the ones who bear the bulk of responsibility for taking decisive action. The likely reason Musk, Kalanick, Thiel and others have cozied up to Trump to begin with is because they like his agenda of cutting down burdensome regulations, and they see an opportunity to manipulate him to help further their own goals and corporate interests.
+
+The problem is that Trump is a ready and willing tool for the agenda of multiple actors, and much more dangerous factions have more direct and pervasive influence. Tech industry power players who sought to flourish under Trump by bending his ear should recognize this, and realize that this is not a situation where their muted response to his dangerous policy decisions can be excused by any potential favor they hope to curry for their larger goals.
+
+Hopefully, the U.S. tech industry’s response to Trump’s immigration order is the start of a concerted and sustained effort to use the sector’s power and influence to turn the country away from the dark path it appears headed down, and hopefully those who’ve sought proximity to Trump in the past join in as well.
+
+Get the context:
+
+Tech reacts to Trump’s immigration ban
+Google CEO Sundar Pichai fears impact of Tru
+
+Trained as a typesetter, I’ve spent my career as a freelance writing, contributing to MIT Technology Review, the Economist, Fast Company, the New York Times, and dozens of other publications. I focus on the intersection of… More
+READ 5 COMMENTS
+More from Computing
+From the latest smartphones to advances in quantum computing, the hardware behind today's digital age is rapidly changing.
+Every Sunday, our daily newsletter features a piece of analysis and opinion regarding the biggest stories of the week in tech. This Sunday, we’re republishing this week’s daily newsletter column here in its entirety.
+
+Resistance and reluctance: Trump’s most controversial act yet is a sweeping immigration order that bars refugees and even legitimate visa holders from a list of Muslim majority countries from entering the country. In an interview on Fox News on Sunday, Trump lieutenant Rudy Giuliani admitted Trump came to him and asked him for a way to create a Muslim ban in a way that was legally acceptable. This is no longer something that anyone with any influence in tech can justifiably fail to oppose.
+
+And yet we see a range of responses from leaders and companies in and around Silicon Valley. We’ve been tracking the various statements released, internal emails leaked, and actions taken by startups, tech giants, investors and more, and the range of responses is what you’d expect from a group so varied and with such complicated relationships to Trump and his administration.
+
+Early reaction from large companies including Apple, Google, Facebook and Microsoft has focused on the immediate impact of the order on employees, with these companies expressing support for, and offering legal assistance to employees affected. These also tended to include fairly mild admonitions about the potential impact on talent acquisition, but by and large they avoided strong or direct condemnation of the Trump administration actions on moral or values-based grounds.
+
+Some companies, including Airbnb, Twitter and Lyft are more explicitly admitting they oppose Trump’s actions at a fundamental level. Lyft and investor Chris Sacca have gone further still, donating funds to the ACLU – Lyft will contribute $1 million over the next four years, in fact. Fred Wilson broke silence regarding Trump maintained since his election and will be donating monthly to the ACLU as well.
+
+Meanwhile some of those with the most direct access to the White House have been more measured in their response. Tesla CEO Elon Musk, who sits on not one, but two Trump industry advisory councils said on Twitter that the ban was “not the best way” to address U.S. immigration challenges, for instance, and Uber CEO Travis Kalanick said he’d “raise” the issue of the order’s unfairness at an upcoming advisory council meeting with Trump.
+
+Somewhat muted responses from a number of tech companies on Trump policy is to be expected: the responsibilities of executives at Google, Apple, Facebook and more are first and foremost to their companies and their employees, and they’re clearly facing a balancing act of acting in good conscience while also protecting their corporate interests. The fact that they’ve said as much as they have while faced with that dilemma speaks volumes to just how heinous Trump’s actions have been.
+
+But on the other side, companies that have been willing to work more closely with Trump are the ones who bear the bulk of responsibility for taking decisive action. The likely reason Musk, Kalanick, Thiel and others have cozied up to Trump to begin with is because they like his agenda of cutting down burdensome regulations, and they see an opportunity to manipulate him to help further their own goals and corporate interests.
+
+The problem is that Trump is a ready and willing tool for the agenda of multiple actors, and much more dangerous factions have more direct and pervasive influence. Tech industry power players who sought to flourish under Trump by bending his ear should recognize this, and realize that this is not a situation where their muted response to his dangerous policy decisions can be excused by any potential favor they hope to curry for their larger goals.
+
+Hopefully, the U.S. tech industry’s response to Trump’s immigration order is the start of a concerted and sustained effort to use the sector’s power and influence to turn the country away from the dark path it appears headed down, and hopefully those who’ve sought proximity to Trump in the past join in as well.
+
+Get the context:
+
+Tech reacts to Trump’s immigration ban
+Google CEO Sundar Pichai fears impact of Trump immigration order
+Every Sunday, our daily newsletter features a piece of analysis and opinion regarding the biggest stories of the week in tech. This Sunday, we’re republishing this week’s daily newsletter column here in its entirety.
+
+Resistance and reluctance: Trump’s most controversial act yet is a sweeping immigration order that bars refugees and even legitimate visa holders from a list of Muslim majority countries from entering the country. In an interview on Fox News on Sunday, Trump lieutenant Rudy Giuliani admitted Trump came to him and asked him for a way to create a Muslim ban in a way that was legally acceptable. This is no longer something that anyone with any influence in tech can justifiably fail to oppose.
+
